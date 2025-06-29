@@ -12,7 +12,6 @@ function App() {
     <div>
       <Navbar></Navbar>
       <Hero></Hero>
-      <Skills/>
       <Tentang/>
       <Work/>
       <Contact/>

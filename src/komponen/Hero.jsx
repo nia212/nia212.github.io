@@ -12,17 +12,17 @@ const Hero = () => {
 
       <div className='col-span-2 px-5 my-auto'>
         
-        <h1 className="text-white text-4xl sm:text-5xl  lg:text-8xl font-extrabold">
+        <h1 className="text-white text-4xl sm:text-4xl  lg:text-6xl font-extrabold">
             <span className="primary-color">
                 I'm a
             </span> <br/>
             <TypeAnimation
             sequence={[
-                'Frontend Developer',
+                'Web Developer',
                 1000,
-                'Web Designer',
+                'AI Enthusiast',
                 1000,
-                'Freelancer',
+                'Technology Explorer',
                 1000,
             ]}
             warpper="span"
@@ -30,11 +30,11 @@ const Hero = () => {
             repeat={Infinity}
             />
         </h1>
-
+        
         <p className="text-white sm:text-lg my-6 lg:text-xl">
             I am a Frontend Developer and Web Designer. I am passionate about creating eye-catching and responsive websites
         </p>
-
+       {/*
         <div className="my-8">
             <a href="/" className="px-6 py-3 w-full rounded-xl mr-4 border border-gray-400 bg-gradient-to-br from-blue-950 to-pink-700
              text-white">
@@ -45,7 +45,7 @@ const Hero = () => {
               Contact
             </a>
         </div>
-
+        */}
       </div>
 
     </div>
