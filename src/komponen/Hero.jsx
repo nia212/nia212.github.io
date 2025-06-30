@@ -32,7 +32,7 @@ const Hero = () => {
         </h1>
         
         <p className="text-white sm:text-lg my-6 lg:text-xl">
-            I am a Frontend Developer and Web Designer. I am passionate about creating eye-catching and responsive websites
+            I’m a second-year Informatics Engineering student driven by curiosity and a strong foundation in programming. With a passion for both web development and artificial intelligence, I thrive at the intersection of technology and innovation. My journey is fueled by a desire to explore the endless possibilities of technology, and I am committed to continuous learning and growth in this dynamic field.
         </p>
        {/*
         <div className="my-8">
