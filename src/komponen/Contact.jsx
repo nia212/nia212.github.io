@@ -18,12 +18,9 @@ const Contact = () => {
         return (
                 <div className="max-w-[1200px] mx-auto bg-black sm:py-20 p-5" id="contact">
                         <div className="text-center mb-16">
-                                <h2 className="text-5xl font-bold leading-tight bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent mb-4">
+                                <h2 className="text-2xl font-bold leading-tight bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent mb-4">
                                         Contact Me
                                 </h2>
-                                <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-                                        Let's create something amazing together. Drop me a message and I'll get back to you soon!
-                                </p>
                         </div>
 
                         <div className="max-w-[800px] mx-auto">
