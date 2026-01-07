@@ -1,6 +1,7 @@
 {
   "name": "my-porto",
   "version": "0.1.0",
+  "homepage": "https://nia212.github.io",
   "private": true,
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.7",
@@ -16,10 +17,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
