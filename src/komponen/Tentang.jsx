@@ -13,16 +13,16 @@ const Tentang = () => {
             </h2>
             <div className="space-y-4 text-gray-300 leading-relaxed">
               <p className="text-base lg:text-lg">
-                I'm a second-year <span className="text-blue-400 font-semibold">Informatics Engineering</span> student driven by curiosity and a strong foundation in programming. With a passion for both web development and artificial intelligence, I thrive at the intersection of technology and innovation.
+                I'm a third-year <span className="text-blue-400 font-semibold">Informatics Engineering</span> student driven by curiosity and a huge attachment in programming and Artificial Intelligence.
               </p>
               <p className="text-base lg:text-lg">
-                My journey is fueled by a desire to explore the endless possibilities of technology, and I am committed to continuous learning and growth in this dynamic field.
+                Every project begins with a question: what problem are we really trying to solve?
               </p>
               <p className="text-base lg:text-lg">
-                Beyond algorithms and a whole code, I'm also a <span className="text-purple-400 font-semibold">performer, explorer, and storyteller</span>. I love exploring nature and just enjoying the beauty of the world around me.
+                I<span className="text-purple-400 font-semibold"> help </span>people build modern digital products by understanding the goals and applying the right technology solutions.
               </p>
               <p className="text-base lg:text-lg italic text-gray-400">
-                Whether through stage performance or code, I strive to craft experiences that resonate, inform, and inspire.
+                I love combining art and technology to create meaningful digital experiences.
               </p>
             </div>
           </div>

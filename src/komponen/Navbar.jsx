@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className='bg-black text-gray-400 h-[100px] max-w-[1200px] mx-auto flex justify-between items-center'>
+      <div className='bg-gray-900 text-gray-400 h-[100px] max-w-full mx-auto flex justify-between items-center'>
 
         <h1 className='text-2x1 font-bold primary-color white-color ml-4'>NIA NUR HIDAYATURROHMAH</h1>
         <ul className='hidden md:flex'>
