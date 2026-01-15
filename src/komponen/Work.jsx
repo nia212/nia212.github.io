@@ -58,6 +58,14 @@ const Work = () => {
             description: 'Virtual Laboratory for Science Education',
             link: '#'
         },
+        { 
+            id: 7, 
+            image: project7, 
+            title: 'Brain Tumor Detection using Machine Learning', 
+            category: 'AI-based', 
+            description: 'Machine Learning system for detecting brain tumors using MRI images',
+            link: '#'
+        },
     ]
 
     const filteredProjects = projects.filter(project => project.category === activeCategory)
