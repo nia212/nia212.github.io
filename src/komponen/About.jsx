@@ -1,7 +1,7 @@
 import React from 'react'
 import about from '../aset/about.jpg'
 
-const Tentang = () => {
+const About = () => {
   return (
     <div className="text-white max-w-[1200px] mx-auto my-12 px-4" id="about">
       <div className='md:grid md:grid-cols-2 md:gap-12 items-center'>
