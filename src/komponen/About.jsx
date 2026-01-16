@@ -13,7 +13,7 @@ const Tentang = () => {
             </h2>
             <div className="space-y-4 text-gray-300 leading-relaxed">
               <p className="text-base lg:text-lg">
-                I'm a third-year <span className="text-blue-400 font-semibold">Informatics Engineering</span> student driven by curiosity and a huge attachment in programming and Artificial Intelligence.
+                I'm a <span className="text-blue-400 font-semibold">Information Technology enthusiast</span> driven by curiosity and a huge attachment in programming and Artificial Intelligence.
               </p>
               <p className="text-base lg:text-lg">
                 Every project begins with a question: what problem are we really trying to solve?

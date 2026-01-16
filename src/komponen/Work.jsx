@@ -5,6 +5,7 @@ import project3 from '../aset/project3.jpeg'
 import project4 from '../aset/cctv_motion.png'
 import project5 from '../aset/mbti.jpg'
 import project6 from '../aset/lab.png'
+import project7 from '../aset/image.png'
 
 const Work = () => {
     const [activeCategory, setActiveCategory] = useState('website')
