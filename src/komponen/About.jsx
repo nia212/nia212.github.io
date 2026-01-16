@@ -46,4 +46,4 @@ const About = () => {
   )
 }
 
-export default Tentang
+export default About

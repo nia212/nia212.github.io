@@ -12,7 +12,7 @@ function App() {
     <div>
       <Navbar></Navbar>
       <Hero></Hero>
-      <Tentang/>
+      <About/>
       <Work/>
       <Contact/>
       <Footer/>
