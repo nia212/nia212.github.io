@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5040ecb9.css",
-    "main.js": "/static/js/main.4756e4db.js",
+    "main.css": "/static/css/main.a0f658bc.css",
+    "main.js": "/static/js/main.52e98438.js",
+    "static/media/profil.jpg": "/static/media/profil.89680a05fbade8375be1.jpg",
     "static/media/herokost.png": "/static/media/herokost.c76393a84af3eab0a6ee.png",
     "static/media/ai_resume.png": "/static/media/ai_resume.ef594d78f1ad05d636d3.png",
     "static/media/cctv_motion.png": "/static/media/cctv_motion.c2e186c18af91bb308e0.png",
     "static/media/lab.png": "/static/media/lab.bd522148e8ff66323462.png",
     "static/media/image.png": "/static/media/image.70cf04e690ba29d2b523.png",
-    "static/media/niapakejas.png": "/static/media/niapakejas.791b5cdd7755109561d2.png",
     "static/media/mbti.jpg": "/static/media/mbti.d49618fe01fd94d8d31d.jpg",
     "static/media/project3.jpeg": "/static/media/project3.3fcafb5e86b40bef1c26.jpeg",
     "static/media/about.jpg": "/static/media/about.690c93aaa57a7386604f.jpg",
     "index.html": "/index.html",
-    "main.5040ecb9.css.map": "/static/css/main.5040ecb9.css.map",
-    "main.4756e4db.js.map": "/static/js/main.4756e4db.js.map"
+    "main.a0f658bc.css.map": "/static/css/main.a0f658bc.css.map",
+    "main.52e98438.js.map": "/static/js/main.52e98438.js.map"
   },
   "entrypoints": [
-    "static/css/main.5040ecb9.css",
-    "static/js/main.4756e4db.js"
+    "static/css/main.a0f658bc.css",
+    "static/js/main.52e98438.js"
   ]
 }
