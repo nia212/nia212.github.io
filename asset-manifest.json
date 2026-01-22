@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a0f658bc.css",
-    "main.js": "/static/js/main.931b9b62.js",
+    "main.js": "/static/js/main.9aeb7ade.js",
     "static/media/profil.jpg": "/static/media/profil.89680a05fbade8375be1.jpg",
     "static/media/hp.png": "/static/media/hp.a33b8651b3e10293b573.png",
     "static/media/herokost.png": "/static/media/herokost.c76393a84af3eab0a6ee.png",
@@ -14,10 +14,10 @@
     "static/media/about.jpg": "/static/media/about.690c93aaa57a7386604f.jpg",
     "index.html": "/index.html",
     "main.a0f658bc.css.map": "/static/css/main.a0f658bc.css.map",
-    "main.931b9b62.js.map": "/static/js/main.931b9b62.js.map"
+    "main.9aeb7ade.js.map": "/static/js/main.9aeb7ade.js.map"
   },
   "entrypoints": [
     "static/css/main.a0f658bc.css",
-    "static/js/main.931b9b62.js"
+    "static/js/main.9aeb7ade.js"
   ]
 }
