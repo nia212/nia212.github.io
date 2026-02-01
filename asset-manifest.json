@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffd548f5.css",
-    "main.js": "/static/js/main.4a2093be.js",
+    "main.css": "/static/css/main.324f3038.css",
+    "main.js": "/static/js/main.718f7738.js",
     "static/media/profil.jpg": "/static/media/profil.89680a05fbade8375be1.jpg",
     "static/media/hp.png": "/static/media/hp.a33b8651b3e10293b573.png",
     "static/media/herokost.png": "/static/media/herokost.c76393a84af3eab0a6ee.png",
     "static/media/ai_resume.png": "/static/media/ai_resume.ef594d78f1ad05d636d3.png",
+    "static/media/earth-night.jpg": "/static/media/earth-night.da273783100dfbfd07c0.jpg",
+    "static/media/earth-topology.png": "/static/media/earth-topology.739e278bf846bb7b50d5.png",
     "static/media/cctv_motion.png": "/static/media/cctv_motion.c2e186c18af91bb308e0.png",
     "static/media/lab.png": "/static/media/lab.bd522148e8ff66323462.png",
     "static/media/image.png": "/static/media/image.70cf04e690ba29d2b523.png",
@@ -13,11 +15,11 @@
     "static/media/project3.jpeg": "/static/media/project3.3fcafb5e86b40bef1c26.jpeg",
     "static/media/about.jpg": "/static/media/about.690c93aaa57a7386604f.jpg",
     "index.html": "/index.html",
-    "main.ffd548f5.css.map": "/static/css/main.ffd548f5.css.map",
-    "main.4a2093be.js.map": "/static/js/main.4a2093be.js.map"
+    "main.324f3038.css.map": "/static/css/main.324f3038.css.map",
+    "main.718f7738.js.map": "/static/js/main.718f7738.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffd548f5.css",
-    "static/js/main.4a2093be.js"
+    "static/css/main.324f3038.css",
+    "static/js/main.718f7738.js"
   ]
 }
